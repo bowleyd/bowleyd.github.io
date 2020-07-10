@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "1356683228.uk.co.temeraire1798.fodmapaz"],
+             "components": [
+               {
+                  "/": "/open/*",
+                  "comment": "Matches any URL whose path starts with /open/"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "1356683228.uk.co.temeraire1798.fodmapaz" ]
+   }
+}
