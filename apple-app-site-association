@@ -5,7 +5,7 @@
              "appIDs": [ "1356683228.uk.co.temeraire1798.fodmapaz"],
              "components": [
                {
-                  "/": "/open/*",
+                  "/": "/lowfodmapaz/*",
                   "comment": "Matches any URL whose path starts with /open/"
                }
              ]
